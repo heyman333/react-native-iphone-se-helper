@@ -12,5 +12,5 @@ export const isIphoneSE = () => {
 };
 
 export const concernSESize = (originalSize, seSize) => {
-  return isIphoneSE() ? originalSize : seSize;
+  return isIphoneSE() ? seSize : originalSize;
 };
