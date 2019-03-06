@@ -1,0 +1,37 @@
+{
+  "name": "react-native-iphone-se-helper",
+  "version": "0.0.1",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "description": "utils for iPhone SE device size in react-native",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "prettier --list-different './index.*'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyman333/react-native-iphone-se-helper"
+  },
+  "keywords": [
+    "react-native",
+    "utils",
+    "ios",
+    "android",
+    "react",
+    "font",
+    "fontSize",
+    "font-size",
+    "iPhone SE",
+    "se",
+    "size"
+  ],
+  "author": "youngsoohan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heyman333/react-native-iphone-se-helper/issues"
+  },
+  "homepage": "https://github.com/heyman333/react-native-iphone-se-helper",
+  "devDependencies": {
+    "prettier": "1.15.3"
+  }
+}
