@@ -5,7 +5,7 @@ This package was created with strong motivation for [react-native-iphone-x-helpe
 ## install 
 
 ```bash
-yarn install react-native-iphone-se-helper
+yarn add react-native-iphone-se-helper
 #or 
 npm install react-native-iphone-se-helper --save
 ```
@@ -18,13 +18,12 @@ returns whether the device is a iPhons SE or others
 
 ### concernSESize(originalSize: number, seSize: number): number
 
-determines the size by dividing whether it is SE or not.
+determines the size by dividing whether it is SE or not
 
 
 ## Example
 ```js
-import { isIphoneSE, concernSESize } from "./libs";
-
+import { isIphoneSE, concernSESize } from "react-native-iphone-se-helper";
 
 const styles = StyleSheet.create({
   container: {
@@ -47,7 +46,8 @@ const styles = StyleSheet.create({
 
 ```
 
-
+## License
+MIT
 
 
 

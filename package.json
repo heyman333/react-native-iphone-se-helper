@@ -1,6 +1,6 @@
 {
   "name": "react-native-iphone-se-helper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "typings": "index.d.ts",
   "description": "utils for iPhone SE device size in react-native",
